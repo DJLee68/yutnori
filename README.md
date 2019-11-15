@@ -1,2 +1,2 @@
 # yutnori
-Korean popular folk game
+Korean popular folk game(2-2)
