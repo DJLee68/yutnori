@@ -1,2 +1,2 @@
 # yutnori
-Korean popular folk game(2-2)
+3-1 Software Engineering project(Korean popular folk game)
